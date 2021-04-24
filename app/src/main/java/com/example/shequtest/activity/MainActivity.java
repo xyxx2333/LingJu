@@ -54,7 +54,7 @@ public class MainActivity extends backtui implements View.OnClickListener {
         fragmentManager = getSupportFragmentManager();
         initView();
 //        默认选中社区模块
-        setChoiceItem(0);
+        setChoiceItem(1);
         onBackPressed();
     }
 
