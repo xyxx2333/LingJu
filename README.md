@@ -5,7 +5,8 @@
 
 **一、软件描述：**  
 零距就业APP产品系基于安卓平台开发的一款用于解决各大院校应届生毕业就业困难与为各大公司企业提供人力资源
-、解决院校应届生就业率低问题的就业类软件，目前产品正属于开发阶段，相比起各大就业软件，该软件主要面向校园。
+、解决院校应届生就业率低问题的就业类软件，目前产品正属于开发阶段，相比起各大就业软件，该软件主要面向校园。  
+LingJu employment APP products are based on the android platform to develop a is used to solve the universities fresh graduate employment difficulties and for major companies to provide human resources, solve the problem of colleges and universities fresh graduates employment rate low employment, such software products are currently belongs to the development stage, compared each big employment software, the software is mainly for the campus.  
 
 **二、项目功能介绍：**  实时发布，岗位招聘，新闻浏览，签到，积分，金币，浏览记录，发布记录，个人资料，系统设置等功能
 开发环境：Android studio 4.0.1
