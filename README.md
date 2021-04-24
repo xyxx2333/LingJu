@@ -1,7 +1,7 @@
 # LingJu
-*** author：xyxx2333 ***
-***This project is open source software, everyone is welcome to improve together***
-***本项目是开源软件，欢迎大家一起改进***
+*** author：xyxx2333 ***  
+***This project is open source software, everyone is welcome to improve together***  
+***本项目是开源软件，欢迎大家一起改进***  
 *** 软件描述：***
 零距就业APP产品系基于安卓平台开发的一款用于解决各大院校应届生毕业就业困难与为各大公司企业提供人力资源
 、解决院校应届生就业率低问题的就业类软件，目前产品正属于开发阶段，相比起各大就业软件，该软件主要面向校园。
