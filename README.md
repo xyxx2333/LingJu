@@ -53,7 +53,7 @@ https://github.com/square/picasso
 json视频解析：
 Lottie
 参考链接：
-https://github.com/airbnb/lottie-android
+https://github.com/airbnb/lottie-android  
 
 视图绑定：
 butterknife
